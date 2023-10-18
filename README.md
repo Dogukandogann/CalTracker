@@ -36,8 +36,8 @@ In adherence to the Solid principles, it was developed with the n-tier architect
 
 ## Development Team
 
-Canberk TİMURLENK
-
 Doğukan DOĞAN
+
+Canberk TİMURLENK
 
 Batuhan Bora ALAFTAR
